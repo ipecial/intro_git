@@ -2,3 +2,4 @@
 自宅と連携できるようにします
 ・git add
 ・git commit
+・git rm
